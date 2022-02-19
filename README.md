@@ -1,6 +1,7 @@
 <p align="center">
   <img width="640" height="360" src="https://github.com/thisisignitedoreo/pyyt/raw/main/pyyt.png">
 </p>
+
 # О Pyyt
 pyyt (пиит) - простой консольный клиент YouTube на питоне, mpv, и youtube-dl<br />Возможно еще будут обновления
 # Вдохновление
