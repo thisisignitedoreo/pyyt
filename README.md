@@ -18,7 +18,7 @@ elif channelid == "ID":
 ```
 37         channelnames.append("1000. Обновить список")
 ...
-50 elif channelid == "1000":
-51         print("Загрузка...")
-52         updatechannels()
+50         elif channelid == "1000":
+51                 print("Загрузка...")
+52                 updatechannels()
 ```
