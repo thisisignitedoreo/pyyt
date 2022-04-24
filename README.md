@@ -1,11 +1,12 @@
 <p align="center">
   <img width="640" height="360" src="https://github.com/thisisignitedoreo/pyyt/raw/main/pyyt.png">
 </p>
-
+# ВНИМАНИЕ
+Я мигрирую в связи с недавними событиями с гитхаба на кодберг, [аккаунт](https://codeberg.org/ignitedoreo) и сам [pyyt](https://codeberg.org/ignitedoreo/pyyt)
 # О Pyyt
 pyyt (пиит) - простой консольный клиент YouTube на питоне, mpv, и youtube-dl<br />Возможно еще будут обновления
 # Вдохновление
-Взял идею у Черного Треугольника (https://www.youtube.com/c/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA), он писал то-же самое, только проще. (хотя тут как посмотреть у кого проще)
+Взял идею у Черного Треугольника (https://www.youtube.com/c/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA), он писал то-же самое, толь#ко проще. (хотя тут как посмотреть у кого проще)
 # Зависимости
 Утилиты: fzf, mpv, youtube-dl (ну или yt-dlp)<br />Pip3 модули: pytube, youtube-search-python, pyfzf
 # Моддинг
